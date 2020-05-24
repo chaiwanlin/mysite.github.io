@@ -1,1 +1,3 @@
-# mysite.github.io
+This website is me made.
+Check out more websites make by me on www.sike.com :)
+John is very unique.
